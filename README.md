@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="250" src="https://forum.unity.com/attachments/0c7b7bd6de1525cecb762d4f3de34ea1-gif.261746/"  />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Akhil Jagadish</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
